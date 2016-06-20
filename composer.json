@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/symfony": "2.7.*",
-        "codeconsortium/ccdn-component-bb-code": "^2.0"
+        "codeconsortium/ccdn-component-bb-code": "dev-master"
     },
     "autoload": {
         "psr-0": { "CCDNComponent\\BBCodeBundle": "" }
