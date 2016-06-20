@@ -15,8 +15,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "symfony/symfony": "2.4.*",
-        "codeconsortium/ccdn-component-bb-code": "dev-master"
+        "symfony/symfony": "2.7.*",
+        "codeconsortium/ccdn-component-bb-code": "^2.0"
     },
     "autoload": {
         "psr-0": { "CCDNComponent\\BBCodeBundle": "" }
